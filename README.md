@@ -12,7 +12,7 @@ This repo contains 10 unique projects built using only core Python (no external 
 
 | #  | Project Name               | Description                                                   |
 |----|----------------------------|---------------------------------------------------------------|
-| 1  | [Number Guessing](./Number_guessing_game/)     | Add, view, update student data using file handling.           |
+| 1  | [Number Guessing](./NumberGuessingGame/)     | Add, view, update student data using file handling.           |
 | 2  | [Rock, Paper, Scissors](./Rock_Paper_Scissors/)         | Classic user vs computer game with scoring and rounds.        |
 | 3  | [Password Generator](./Password_generator/)             | Create strong passwords with options for complexity.          |
 | 4  | [Contact Book](./Simple_contact_book/)                         | Add, search, edit, and delete contacts with persistent data.  |
