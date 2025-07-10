@@ -1,0 +1,19 @@
+
+
+--- Expense Split Summary ---
+Date: 09-07-2025 19:48
+Payer: Lia, Total: ₹2500.0, Each: ₹833.33
+Lia gets ₹1666.67
+Lucy owes ₹833.33
+Ryan owes ₹833.33
+-----------------------------
+
+--- Expense Split Summary ---
+Date: 09-07-2025 19:49
+Payer: Charles, Total: ₹4500.0, Each: ₹1125.0
+Charles gets ₹3375.0
+Smith owes ₹1125.0
+Richard owes ₹1125.0
+Susan owes ₹1125.0
+-----------------------------
+
