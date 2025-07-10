@@ -9,7 +9,7 @@ A fun and customizable CLI tool to generate random quotes. You can also add your
 -  Displays random quotes every time you run it
 -  Add your own favorite quotes
 -  Saves and loads quotes from a `quotes.txt` file
--  Keeps the experience fresh with Gen-Z energy & classic motivation
+-  Keeps the experience motivating
 
 ---
 
