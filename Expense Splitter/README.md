@@ -44,10 +44,10 @@ Main Menu:<br>
 Enter your choice (1-3): 1<br>
 How many people are there? 4<br>
 Enter names one by one:<br>
-> Smith<br>
-> Charles<br>
-> Richard<br>
-> Susan<br>
+ Smith<br>
+ Charles<br>
+ Richard<br>
+ Susan<br>
 Who paid the bill? Charles<br>
 Total amount? ₹4500<br>
 
