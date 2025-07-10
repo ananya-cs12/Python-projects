@@ -1,4 +1,4 @@
-# Gen-Z Movie Recommender CLI
+# Movie Recommender CLI
 
 A simple command-line based Movie Recommender.  
 Just pick a vibe (genre), and get handpicked, binge-worthy suggestions with iconic drama, twists, trauma, or terror 
