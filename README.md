@@ -1,14 +1,13 @@
-# Python Projects
-Welcome to my collection of beginner-to-intermediate level Python projects — each crafted to build logic, strengthen skills, and solve real-world problems.
+# Python Mini Projects
+
+This repository contains a collection of beginner-friendly Python programs that demonstrate core programming concepts through small, practical projects.
+
+Developed by : **Ananya Singh**  
+Perfect for learning & showcasing basic logic, loops, conditionals, and functions in Python
 
 ---
 
-## About 
-This repo contains 10 unique projects built using only core Python (no external frameworks, except `random`, `time`, or simple file handling). Each project is self-contained, console-based, and beginner-friendly.
-
----
-
-## Project List
+## Projects Included
 
 | #  | Project Name               | Description                                                   |
 |----|----------------------------|---------------------------------------------------------------|
