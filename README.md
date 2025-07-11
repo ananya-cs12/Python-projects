@@ -3,7 +3,7 @@ Welcome to my collection of beginner-to-intermediate level Python projects — e
 
 ---
 
-## About This Repository
+## About 
 This repo contains 10 unique projects built using only core Python (no external frameworks, except `random`, `time`, or simple file handling). Each project is self-contained, console-based, and beginner-friendly.
 
 ---
@@ -24,5 +24,10 @@ This repo contains 10 unique projects built using only core Python (no external 
 | 10 | [Movie Recommender](./Movie_Recommender/)      | Recommends movies by genre from a curated list.   |
 
 ---
+These mini projects focus on:
 
+- Input/output handling
+- Conditions and loops
+- Modular code using functions
+- Simple logic and beginner-level concepts
 
